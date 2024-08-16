@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Avinash Tewari,
 
-- 🌱 Learning AI&ML,MERN,AWS,Next Js, Scrapy
+- 🌱 Learning AI&ML,APP DEV,AWS,Next Js, Scrapy
 - 📫 How to reach me: avinashtewari03@gmail.com
 - ⚡ Fun fact: Life is fun
 
