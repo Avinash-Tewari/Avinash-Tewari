@@ -9,6 +9,7 @@ I'm Avinash Tewari,
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
+![Uploading 68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3030303f266c6f676f3d6e6f64652e6a73.svg…]()
 
 
 
