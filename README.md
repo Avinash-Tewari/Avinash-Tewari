@@ -16,6 +16,8 @@ I'm Avinash Tewari,
 [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Avinash-Tewari&show_icons=true&theme=radical)
+
 <!---
 Avinash-Tewari/Avinash-Tewari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
