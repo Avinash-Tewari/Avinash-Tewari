@@ -2,7 +2,7 @@
 I'm Avinash Tewari,
 
 - 🌱 Learning AI&ML,APP DEV and Cloud Computing
-- 📫 How to reach me: avinashtewari03@gmail.com
+- 📫 Interested : avinashtewari03@gmail.com
 - ⚡ Fun fact: Life is fun
 
 ### 🛠️  Tools and Languages:
@@ -14,6 +14,9 @@ I'm Avinash Tewari,
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+
 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Avinash-Tewari&show_icons=true&theme=radical)
